@@ -8,7 +8,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yuta925&&theme=github&utcOffset=9)
 
 ## Languages and Tools:
-<img alt="my skills of lang" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,js,ts,c,java,python, tailwindcss" />
+<img alt="my skills of lang" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,tailwind,js,ts,c,java,python,swift,docker" />
 
 ## Connect with me:
 <p align="left">
