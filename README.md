@@ -7,7 +7,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=yuta925&show_icons=true)
 
 ## Languages and Tools:
-<img alt="my skills of lang" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,tailwind,js,ts,c,java,python,swift,docker" />
+<img alt="my skills of lang" src="https://skillicons.dev/icons?theme=light&perline=8&i=html,css,sass,tailwind,js,ts,go,c,java,python,swift,docker" />
 
 ## Connect with me:
 <p align="left">
