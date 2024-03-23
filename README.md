@@ -11,7 +11,7 @@
 
 ## Award history
 <h3>2024/3/18,19 カラビナハッカソン in奈良 <br/> 最優秀賞</h3>
-<h4>プロダクト名 : <a href="https://todokuyo-test.vercel.app/order" alt="todokuyo" > Todokuyo</a></h4>
+<h4>プロダクト名 : <a href="https://todokuyo-test.vercel.app" alt="todokuyo" > Todokuyo</a></h4>
 
 
 ## Connect with me:
