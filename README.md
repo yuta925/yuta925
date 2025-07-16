@@ -58,6 +58,25 @@
         </ul>
       </th>
     </tr>
+    <tr>
+      <th>2025/7/2〜13</th>
+      <th>技育ハッカソンvol.6</th>
+      <th>Tender</th>
+      <th>
+        <ul>
+          <li>
+            <a href="https://github.com/team-tender/geek-hackathon">
+              GitHub
+            </a>
+          </li>
+          <li>
+            <a href="https://www.canva.com/design/DAGs7vnn2IU/Zhc2LzYoIYce8ljEtTcWKA/edit">
+              Canva
+            </a>
+          </li>
+        </ul>
+      </th>
+    </tr>
   </tbody>
 </table>
 
@@ -66,7 +85,8 @@
 ## Award history
 <h3>2024/3/18,19 カラビナハッカソン in奈良 <br/> 最優秀賞</h3>
 <h4>プロダクト名 : <a href="https://todokuyo-test.vercel.app" alt="todokuyo" > Todokuyo</a></h4>
-
+<h3>2025/7/2~13 技育ハッカソンvol.6 <br/> 優秀賞</h3>
+<h4>プロダクト名 : Tender
 
 ## Connect with me:
 <p align="left">
